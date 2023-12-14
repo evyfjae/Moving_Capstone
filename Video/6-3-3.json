@@ -1,0 +1,63 @@
+{
+    "problemTitle": "[기본] 6-2. 삼각형과 평행선",
+    "problemImage": "https://capston-moving.s3.ap-northeast-2.amazonaws.com/6-3-3.png",
+    "problemAnswer": "정답 : 2번",
+    "videoUrl": "https://capston-moving.s3.ap-northeast-2.amazonaws.com/6-3-3.mp4",
+    "videoLength": 18,
+    "instructions": [
+        {
+            "id": "1",
+            "text": "ㄷ. 선분 AD : BD = 선분 AF : CF = 3 : 4",
+            "startTime": 0.0,
+            "highlights": []
+        },
+        {
+            "id": "2",
+            "text": "이므로 선분 BC // 선분 DF",
+            "startTime": 2.0,
+            "highlights": []
+        },
+        {
+            "id": "3",
+            "text": "ㅂ. 선분 BC // DF 이므로 각 ADF = 각 ABC",
+            "startTime": 4.0,
+            "highlights": []
+        },
+        {
+            "id": "4",
+            "text": "",
+            "startTime": 6.0,
+            "highlights": []
+        },
+        {
+            "id": "5",
+            "text": "",
+            "startTime": 8.0,
+            "highlights": []
+        },
+        {
+            "id": "6",
+            "text": "",
+            "startTime": 10.0,
+            "highlights": []
+        },
+        {
+            "id": "7",
+            "text": "",
+            "startTime": 12.0,
+            "highlights": []
+        },
+        {
+            "id": "8",
+            "text": "",
+            "startTime": 14.0,
+            "highlights": []
+        },
+        {
+            "id": "9",
+            "text": "",
+            "startTime": 16.0,
+            "highlights": []
+        }
+    ]
+}

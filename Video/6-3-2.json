@@ -1,0 +1,63 @@
+{
+    "problemTitle": "[기본] 6-2. 삼각형과 평행선",
+    "problemImage": "https://capston-moving.s3.ap-northeast-2.amazonaws.com/6-3-2.png",
+    "problemAnswer": "정답 : 2번",
+    "videoUrl": "https://capston-moving.s3.ap-northeast-2.amazonaws.com/6-3-2.mp4",
+    "videoLength": 18,
+    "instructions": [
+        {
+            "id": "1",
+            "text": "선분 DE // BC 이므로",
+            "startTime": 0.0,
+            "highlights": []
+        },
+        {
+            "id": "2",
+            "text": "선분 AE : EC = AD : DB = 24 : 16 = 3 : 2",
+            "startTime": 2.0,
+            "highlights": []
+        },
+        {
+            "id": "3",
+            "text": "선분 AE = 3/5 선분 AC = 3/5 X 30 = 18",
+            "startTime": 4.0,
+            "highlights": []
+        },
+        {
+            "id": "4",
+            "text": "선분 FE // 선분 DC 임으로 선분 AF : FD = AE : EC = 3 : 2",
+            "startTime": 6.0,
+            "highlights": []
+        },
+        {
+            "id": "5",
+            "text": "선분 FG // 선분 DE 임으로 선분 AG : GE = AF : FD = 3 : 2",
+            "startTime": 8.0,
+            "highlights": []
+        },
+        {
+            "id": "6",
+            "text": "따라서 선분 GE = 2/5 AE = 2/5 X 18 = 36/5",
+            "startTime": 10.0,
+            "highlights": []
+        },
+        {
+            "id": "7",
+            "text": "",
+            "startTime": 12.0,
+            "highlights": []
+        },
+        {
+            "id": "8",
+            "text": "",
+            "startTime": 14.0,
+            "highlights": []
+        },
+        {
+            "id": "9",
+            "text": "",
+            "startTime": 16.0,
+            "highlights": []
+        }
+    ]
+}

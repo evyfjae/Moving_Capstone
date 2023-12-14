@@ -1,0 +1,71 @@
+{
+    "problemTitle": "[기본] 6-2. 삼각형과 평행선",
+    "problemImage": "https://capston-moving.s3.ap-northeast-2.amazonaws.com/6-3-1.png",
+    "problemAnswer": "정답 : 2번",
+    "videoUrl": "https://capston-moving.s3.ap-northeast-2.amazonaws.com/6-3-1.mp4",
+    "videoLength": 18,
+    "instructions": [
+        {
+            "id": "1",
+            "text": "8 : 16 = 1 : 2 이므로",
+            "startTime": 0.0,
+            "highlights": []
+        },
+        {
+            "id": "2",
+            "text": "1 : 2 = 12 : 선분 DC, 따라서 DC = 24(cm)",
+            "startTime": 2.0,
+            "highlights": []
+        },
+        {
+            "id": "3",
+            "text": "이때, 선분 AB // 선분 FC 이므로",
+            "startTime": 4.0,
+            "highlights": []
+        },
+        {
+            "id": "4",
+            "text": "선분 AF : FE = 선분 BC : CE = 8 : 16 = 1 : 2",
+            "startTime": 6.0,
+            "highlights": []
+        },
+        {
+            "id": "5",
+            "text": "또, 삼각형 ACF와 삼각형 EDF가 AA 닮음 이므로",
+            "startTime": 8.0,
+            "highlights": [
+                {
+                    "text": "AA 닮음",
+                    "modalContent": {
+                        "title": "AA 닮음",
+                        "image": "https://youtu.be/U4e4ekF-wjU?si=N8rvi6CRrlKfE1-h"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "text": "선분 DF : FC = 선분  EF : AF = 2 : 1",
+            "startTime": 10.0,
+            "highlights": []
+        },
+        {
+            "id": "7",
+            "text": "선분 DF : 선분 FC = 선분 EF : 선분 AF = 2 : 1",
+            "startTime": 12.0,
+            "highlights": []
+        },
+        {
+            "id": "8",
+            "text": "따라서, 선분 DF = 2/3 선분 DC = 2/3 X 24 = 16(cm)",
+            "startTime": 14.0,
+            "highlights": []
+        },
+        {
+            "id": "9",
+            "text": "",
+            "startTime": 16.0,
+            "highlights": []
+        }
+    ]
+}
